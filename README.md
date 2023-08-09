@@ -204,10 +204,7 @@ SEC
 ```
 
 ## OUTPUT:
-![output](./out.png)
-
-## HTML Validator
-![HTML Validator](./valid.png)
+![output](./output1.png)
 
 
 ## RESULT:
