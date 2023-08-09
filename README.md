@@ -204,6 +204,7 @@ SEC
 ```
 
 ## OUTPUT:
+![output](../static/html/image)
 ![output](./output1.png)
 
 
